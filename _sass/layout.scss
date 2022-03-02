@@ -6,7 +6,7 @@
   z-index: 0;
   display: flex;
   flex-wrap: wrap;
-  background-color: $sidebar-color;
+  background-image:url("/assets/images/oolym_bg.jpg ");
 
   @include mq(md) {
     flex-wrap: nowrap;
